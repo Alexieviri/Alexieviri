@@ -7,7 +7,7 @@
 Hi there 👋 My name is Alexander. I work as a Data Engineer for a BMW project and study Data Science at SSAU. 
 
 Research work at the university is related to the preprocessing of social network users' data and its detailed analysis in order to generate hypotheses for further research. The current research is aimed at building a social scoring model using machine learning methods.
-
+<!--
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=Python&logoColor=blue)
 ![R](https://img.shields.io/badge/-R-000000?style=for-the-badge&logo=R&logoColor=green)
@@ -25,9 +25,9 @@ Research work at the university is related to the preprocessing of social networ
 ![WhatsUp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)
 ![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)
 ![GMAIL](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexieviri&hide=issues,prs&show_icons=true&theme=radical)
-
+-->
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexieviri&hide=issues,prs&show_icons=true&theme=radical)
+-->
 <!--
 **Alexieviri/Alexieviri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
