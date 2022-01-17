@@ -9,6 +9,7 @@ Hi there 👋 My name is Alexander. I work as Data Engineer for BMW project and 
 
 Research work at the university is related to the preprocessing of social network users' data and its detailed analysis in order to generate hypotheses for further research. The current research is aimed at building a social scoring model using machine learning methods.
 
+You can find more information about me on my LinkedIn page.
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=yellow&color=white)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=blue&color=white)
@@ -23,9 +24,9 @@ Research work at the university is related to the preprocessing of social networ
 
 ### Contact me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIN-000000?style=flat&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/alexstadnikov/)
-![WhatsUp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=25D366)
-![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)
-![GMAIL](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=D14836)
+[![WhatsUp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=25D366)](https://wa.me/79992277252?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B%20)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/Alexieviri)
+[![GMAIL](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=D14836)](st054825@student.spbu.ru)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexieviri&hide=issues,prs&show_icons=true&theme=radical)
 -->
