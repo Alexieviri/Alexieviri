@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
 
 ![Header](https://github.com/Alexieviri/Alexieviri/blob/main/assets/header.gif?raw=true)
-
+![Header](https://github.com/Alexieviri/Alexieviri/blob/main/assets/header_v3.gif?raw=true)
 ### About me
 
 Hi there 👋 My name is Alexander. I work as a Data Engineer for a BMW project and study Data Science at SSAU. 
