@@ -10,22 +10,22 @@ Hi there 👋 My name is Alexander. I work as a Data Engineer for a BMW project 
 Research work at the university is related to the preprocessing of social network users' data and its detailed analysis in order to generate hypotheses for further research. The current research is aimed at building a social scoring model using machine learning methods.
 
 ### Languages and Tools
-![Python](https://img.shields.io/badge/-Python-000000?style=social&logo=Python&logoColor=yellow&color=white)
-![R](https://img.shields.io/badge/-R-000000?style=social&logo=R&logoColor=blue&color=white)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=social&logo=SQLite&logoColor=pink&color=white)
-![AWS](https://img.shields.io/badge/-Amazon_AWS-000000?style=social&logo=amazon-aws&logoColor=orange&color=white)
-![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=for-the-badge&logo=ApacheHadoop&logoColor=yellow&color=white)
-![Spark](https://img.shields.io/badge/-Spark-000000?style=for-the-badge&logo=Apachespark&logoColor=red&color=white)
-![Kafka](https://img.shields.io/badge/-Kafka-000000?style=for-the-badge&logo=ApacheKafka&logoColor=red&color=white)
-![Terraform](https://img.shields.io/badge/-Terraform-000000?style=for-the-badge&logo=Terraform&logoColor=yellow&color=white)
-![Hive](https://img.shields.io/badge/-Hive-000000?style=for-the-badge&logo=Hive&logoColor=purple&color=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=for-the-badge&logo=Snowflake&logoColor=blue&color=white)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=yellow&color=white)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=blue&color=white)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=SQLite&logoColor=pink&color=white)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-000000?style=flat&logo=amazon-aws&logoColor=orange&color=white)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=flat&logo=ApacheHadoop&logoColor=yellow&color=white)
+![Spark](https://img.shields.io/badge/-Spark-000000?style=flat&logo=Apachespark&logoColor=red&color=white)
+![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat&logo=ApacheKafka&logoColor=red&color=white)
+![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform&logoColor=yellow&color=white)
+![Hive](https://img.shields.io/badge/-Hive-000000?style=flat&logo=Hive&logoColor=purple&color=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=flat&logo=Snowflake&logoColor=blue&color=white)
 
 ### Contact me
-![LinkedIn](https://img.shields.io/badge/-LinkedIN-000000?style=for-the-badge&logo=LinkedIn&logoColor=blue)
-![WhatsUp](https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=25D366)
-![Telegram](https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white)
-![GMAIL](https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836)
+![LinkedIn](https://img.shields.io/badge/-LinkedIN-000000?style=flat&logo=LinkedIn&logoColor=blue)
+![WhatsUp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=25D366)
+![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)
+![GMAIL](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=D14836)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexieviri&hide=issues,prs&show_icons=true&theme=radical)
 -->
