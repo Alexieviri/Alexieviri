@@ -22,7 +22,7 @@ Research work at the university is related to the preprocessing of social networ
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=flat&logo=Snowflake&logoColor=blue&color=white)
 
 ### Contact me
-![LinkedIn](https://img.shields.io/badge/-LinkedIN-000000?style=flat&logo=LinkedIn&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexstadnikov)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIN-000000?style=flat&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/alexstadnikov/)
 ![WhatsUp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=25D366)
 ![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)
 ![GMAIL](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=D14836)
