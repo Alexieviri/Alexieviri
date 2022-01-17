@@ -18,6 +18,7 @@ You can find more information about me on my LinkedIn page.
 ![Hadoop](https://img.shields.io/badge/-Hadoop-000000?style=flat&logo=ApacheHadoop&logoColor=yellow&color=white)
 ![Spark](https://img.shields.io/badge/-Spark-000000?style=flat&logo=Apachespark&logoColor=red&color=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-000000?style=flat&logo=ApacheKafka&logoColor=red&color=white)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker&logoColor=blue&color=white)
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform&logoColor=yellow&color=white)
 ![Hive](https://img.shields.io/badge/-Hive-000000?style=flat&logo=Hive&logoColor=purple&color=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=flat&logo=Snowflake&logoColor=blue&color=white)
