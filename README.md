@@ -5,7 +5,7 @@
 ![Header](https://github.com/Alexieviri/Alexieviri/blob/main/assets/header_v3.gif?raw=true)
 ### About me
 
-Hi there 👋 My name is Alexander. I work as a Data Engineer for a BMW project and study Data Science at SSAU. 
+Hi there 👋 My name is Alexander. I work as Data Engineer for BMW project and study Data Science at SSAU. 
 
 Research work at the university is related to the preprocessing of social network users' data and its detailed analysis in order to generate hypotheses for further research. The current research is aimed at building a social scoring model using machine learning methods.
 
@@ -22,7 +22,7 @@ Research work at the university is related to the preprocessing of social networ
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=flat&logo=Snowflake&logoColor=blue&color=white)
 
 ### Contact me
-![LinkedIn](https://img.shields.io/badge/-LinkedIN-000000?style=flat&logo=LinkedIn&logoColor=blue)
+![LinkedIn](https://img.shields.io/badge/-LinkedIN-000000?style=flat&logo=LinkedIn&logoColor=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Falexstadnikov)
 ![WhatsUp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=25D366)
 ![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)
 ![GMAIL](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=D14836)
