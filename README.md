@@ -40,7 +40,7 @@ You can find more information about me on my LinkedIn page.
 
 > *Show some ❤️ by starring(⭐) some of the repositories !*
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BharatKammakatla&label=Views&color=blue&style=for-the-badge" alt="BharatKammakatla" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexieviri&label=Views&color=blue&style=for-the-badge" alt="Alexieviri" /> </p>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexieviri&hide=issues,prs&show_icons=true&theme=radical)
 -->
