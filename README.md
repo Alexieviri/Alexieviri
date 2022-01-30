@@ -24,18 +24,39 @@ You can find more information about me on my LinkedIn page.
 ![Hive](https://img.shields.io/badge/-Hive-000000?style=flat&logo=Hive&logoColor=purple&color=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=flat&logo=Snowflake&logoColor=blue&color=white)
 
-### Contact me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIN-000000?style=flat&logo=LinkedIn&logoColor=blue)](https://www.linkedin.com/in/alexstadnikov/)
-[![WhatsUp](https://img.shields.io/badge/WhatsApp-000000?style=flat&logo=whatsapp&logoColor=25D366)](https://wa.me/79992277252?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B%20)
-[![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat&logo=telegram&logoColor=white)](https://t.me/Alexieviri)
-[![GMAIL](https://img.shields.io/badge/Gmail-000000?style=flat&logo=gmail&logoColor=D14836)](st054825@student.spbu.ru)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40" /> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
+  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
+  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
+  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
+  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" /> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+</p>
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/Alexieviri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexstadnikov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://wa.me/79992277252?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B%20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" /></a>
+<a href="st054825@student.spbu.ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+</p>
 
 ### Stats
 
 <a href="https://github.com/Alexieviri">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Alexieviri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexieviri&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Alexieviri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexieviri&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=algolia" />
 </a>
+<style> .centrami { text-align:center; }</style><div class="centrami">
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexieviri&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
+</div>
 <br />
 
 > *Show some ❤️ by starring(⭐) some of the repositories !*
