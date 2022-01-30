@@ -10,7 +10,8 @@ Hi there 👋 My name is Alexander. I work as Data Engineer for BMW project and 
 
 Research work at the university is related to the preprocessing of social network users' data and its detailed analysis in order to generate hypotheses for further research. The current research is aimed at building a social scoring model using machine learning methods.
 
-You can find more information about me on my LinkedIn page.
+You can find more information about me on my [LinkedIn](https://www.linkedin.com/in/alexstadnikov/) page.
+<!--
 ### Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python&logoColor=yellow&color=white)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R&logoColor=blue&color=white)
@@ -23,19 +24,27 @@ You can find more information about me on my LinkedIn page.
 ![Terraform](https://img.shields.io/badge/-Terraform-000000?style=flat&logo=Terraform&logoColor=yellow&color=white)
 ![Hive](https://img.shields.io/badge/-Hive-000000?style=flat&logo=Hive&logoColor=purple&color=white)
 ![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=flat&logo=Snowflake&logoColor=blue&color=white)
-
+-->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="c" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /> </a>
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" /> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40" /> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/python-original-wordmark.svg" alt="python" width="40" height="40" /> </a>
+  <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/r-original.svg" alt="R" width="40" height="40" /> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/postgresql-original-wordmark.svg" alt="PostgresSQL" width="40" height="40" /> </a>
+  <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/oracle-ar21.svg" alt="Oracle" width="40" height="40" /> </a>
+  <a href="https://www.snowflake.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/snowflake-ar21.svg" alt="Snowflake" width="70" height="40" /> </a>
+  <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/aws.svg" alt="AWS" width="40" height="40" /> </a>
+  <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/hadoop.svg" alt="Hadoop" width="40" height="40" /> </a>
+  <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/apache_spark-ar21.svg" alt="Spark" width="50" height="40" /> </a>
+  <a href="https://hive.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/apache_hive-ar21.svg" alt="Hive" width="65" height="40" /> </a>
+  <a href="https://kafka.apache.org/ target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/apachekafka-original-wordmark.svg" alt="Kafka" width="40" height="40" /> </a>
+  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/docker-official.svg" alt="Docker" width="40" height="40" /> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/terraformio-ar21.svg" alt="Terraform" width="60" height="40" /> </a>
+  <a href="https://parquet.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/Apache_Parquet_logo.svg" alt="Parquet" width="50" height="40" /> </a>
+  <a href="https://avro.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/apache_avro-ar21.svg" alt="Avro" width="50" height="40" /> </a>
+  <a href="https://databricks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/databricks-ar21.svg" alt="Databricks" width="50" height="40" /> </a>
+  <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/atlassian_jira-ar21.svg" alt="Jira" width="60" height="40" /> </a>
+  <a href="https://bitbucket.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/bitbucket-official.svg" alt="Bitbucket" width="50" height="40" /> </a>
 </p>
 
 
@@ -51,12 +60,9 @@ You can find more information about me on my LinkedIn page.
 
 <a href="https://github.com/Alexieviri">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=Alexieviri&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=algolia" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexieviri&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&theme=algolia" />
+  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=Alexieviri&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
 </a>
-<style> .centrami { text-align:center; }</style><div class="centrami">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Alexieviri&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)
-</div>
 <br />
 
 > *Show some ❤️ by starring(⭐) some of the repositories !*
