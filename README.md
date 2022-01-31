@@ -27,33 +27,22 @@ You can find more information about me on my [LinkedIn](https://www.linkedin.com
 -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/python-original-wordmark.svg" alt="python" width="40" height="40" /> </a>
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/c05fa33b9b8e39976b6dd2aee8542d4d95a4264b/icons/Original/python-icon.svg" alt="python" width="40" height="40" /> </a>
   <a href="https://www.r-project.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/r-original.svg" alt="R" width="40" height="40" /> </a>
-  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> </a>
-  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/postgresql-original-wordmark.svg" alt="PostgresSQL" width="40" height="40" /> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/c05fa33b9b8e39976b6dd2aee8542d4d95a4264b/icons/Original/mysql-official.svg" alt="MySQL" width="50" height="40" /> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/c05fa33b9b8e39976b6dd2aee8542d4d95a4264b/icons/Original/postgresql-icon.svg" alt="PostgresSQL" width="40" height="40" /> </a>
   <a href="https://www.oracle.com/index.html" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/oracle-ar21.svg" alt="Oracle" width="40" height="40" /> </a>
   <a href="https://www.snowflake.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/snowflake-ar21.svg" alt="Snowflake" width="70" height="40" /> </a>
   <a href="https://aws.amazon.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/aws.svg" alt="AWS" width="40" height="40" /> </a>
   <a href="https://hadoop.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/hadoop.svg" alt="Hadoop" width="40" height="40" /> </a>
   <a href="https://spark.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/apache_spark-ar21.svg" alt="Spark" width="50" height="40" /> </a>
-  <a href="https://hive.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/apache_hive-ar21.svg" alt="Hive" width="65" height="40" /> </a>
-  <a href="https://kafka.apache.org/ target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/apachekafka-original-wordmark.svg" alt="Kafka" width="40" height="40" /> </a>
+  <a href="https://hive.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/c05fa33b9b8e39976b6dd2aee8542d4d95a4264b/icons/Original/apache_hive-icon.svg" alt="Hive" width="40" height="40" /> </a>
+  <a href="https://kafka.apache.org/ target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/c05fa33b9b8e39976b6dd2aee8542d4d95a4264b/icons/Original/apache_kafka-vertical.svg" alt="Kafka" width="40" height="40" /> </a>
   <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/docker-official.svg" alt="Docker" width="40" height="40" /> </a>
-  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/b220a242d79fcbbc5cda62639547260799156627/icons/terraformio-ar21.svg" alt="Terraform" width="60" height="40" /> </a>
+  <a href="https://www.terraform.io/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/c05fa33b9b8e39976b6dd2aee8542d4d95a4264b/icons/Original/terraformio-icon.svg" alt="Terraform" width="40" height="40" /> </a>
   <a href="https://parquet.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/Apache_Parquet_logo.svg" alt="Parquet" width="50" height="40" /> </a>
   <a href="https://avro.apache.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/apache_avro-ar21.svg" alt="Avro" width="50" height="40" /> </a>
-  <a href="https://databricks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/databricks-ar21.svg" alt="Databricks" width="50" height="40" /> </a>
-  <a href="https://www.atlassian.com/ru/software/jira" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/atlassian_jira-ar21.svg" alt="Jira" width="60" height="40" /> </a>
-  <a href="https://bitbucket.org/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/2fee6cdad40def74ffb68298df4b88394ada2ec9/icons/bitbucket-official.svg" alt="Bitbucket" width="50" height="40" /> </a>
-</p>
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://t.me/Alexieviri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/alexstadnikov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="https://wa.me/79992277252?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B%20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" /></a>
-<a href="st054825@student.spbu.ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+  <a href="https://databricks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/Alexieviri/Alexieviri/c05fa33b9b8e39976b6dd2aee8542d4d95a4264b/icons/Original/databricks-icon.svg" alt="Databricks" width="40" height="40" /> </a>
 </p>
 
 ### Stats
@@ -69,6 +58,14 @@ You can find more information about me on my [LinkedIn](https://www.linkedin.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexieviri&label=Views&color=blue&style=for-the-badge" alt="Alexieviri" /> </p>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://t.me/Alexieviri" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alexstadnikov/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="https://wa.me/79992277252?text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%F0%9F%91%8B%20" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="" height="30" width="40" /></a>
+<a href="st054825@student.spbu.ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="" height="30" width="40" /></a>
+</p>
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexieviri&hide=issues,prs&show_icons=true&theme=radical)
 -->
 <!--
