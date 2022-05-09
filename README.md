@@ -6,7 +6,7 @@
 
 ### About me
 
-Hi there 👋 My name is Alexander. I work as Data Engineer for BMW project and study Data Science at SSAU. 
+Hi there 👋 My name is Alexander. I work as Data Engineer at Accenture and study Data Science at SSAU. 
 
 Research work at the university is related to the preprocessing of social network users' data and its detailed analysis in order to generate hypotheses for further research. The current research is aimed at building a social scoring model using machine learning methods.
 
